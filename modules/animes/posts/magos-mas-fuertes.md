@@ -4,7 +4,7 @@ date: 2025-05-16
 excerpt: Los magos de Frieren son un grupo muy específico e importante. Representados principalmente por Frieren, los magos se presentan en diversas formas y tamaños, y hemos visto a varios de ellos. El Examen de Mago de Primera Clase revela muchos detalles sobre este grupo específico y su papel en la serie. También hemos llegado a comprender su poder y la versatilidad de sus poderes y habilidades.
 slug: magos-mas-fuertes
 category: animes
-image: https://fictionhorizon.com/wp-content/uploads/2024/01/Frieren10-1.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/magos.webp
 ---
 
 ## 5. Lernen

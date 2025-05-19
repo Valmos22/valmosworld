@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: El año promete grandes lanzamientos con secuelas esperadas, nuevas IPs y experiencias revolucionarias.
 slug: estrenos-videojuegos-2025
 category: juegos
-image: https://static1.ara.cat/clip/c93500ed-0ebd-447c-8a9f-705803bcbdf3_16-9-aspect-ratio_default_0.png
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/estrenos-de-videojuegos.webp
 ---
 
 ## 1. 'Grand Theft Auto VI'

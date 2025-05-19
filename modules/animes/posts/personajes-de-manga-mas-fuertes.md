@@ -5,7 +5,7 @@ date: 2025-05-16
 excerpt: La historia del manga está llena de personajes diferentes. Algunos son adorables, otros malvados, otros poderosos, etc. En este artículo, encontrarás una lista de los personajes de manga más fuertes que conocemos, según diversas fuentes, clasificándolos del 30.º al 1.º puesto según sus poderes y habilidades. Esta lista no será completamente objetiva, ya que cada franquicia tiene sus propias reglas y marcos, pero hemos hecho todo lo posible para ofrecerte una escala bastante válida. Mientras tanto, consulta nuestra lista de los personajes de anime más fuertes; por cierto, es mucho más larga.
 slug: personajes-de-manga-mas-fuertes
 category: animes
-image: https://fictionhorizon.com/wp-content/uploads/2022/04/strongest-manga-characters.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/personajes-anime.webp
 ---
 
 ## 5. ZeedMillenniummon

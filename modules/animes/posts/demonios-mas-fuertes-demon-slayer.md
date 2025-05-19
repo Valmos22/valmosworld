@@ -4,7 +4,7 @@ date: 2025-05-16
 excerpt: En el mundo de Demon Slayer , los demonios son criaturas que matan y devoran personas. El primer demonio es Muzan Kibutsuji, cuya sangre contribuye al surgimiento de nuevos demonios. Esta lista de los 20 demonios más poderosos de Demon Slayer te dará una mejor perspectiva de este grupo de antagonistas. Los personajes provienen de diferentes arcos narrativos. Descubrirás información básica sobre ellos, lo que te permitirá deducir por qué los hemos incluido en nuestra lista.
 slug: demonios-mas-fuertes-demon-slayer
 category: animes
-image: 
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/Demonios.webp
 ---
 
 ## 5. Hantengu

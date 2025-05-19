@@ -4,7 +4,7 @@ date: 2025-05-16
 excerpt: Aunque las Frutas del Diablo son los objetos más conocidos en la historia de la serie One Piece de Eiichiro Oda , existen numerosos objetos relevantes que conforman la misma. La mayoría son tesoros o armas, y en este artículo, hablaremos de este último grupo al presentarles una lista de las espadas más poderosas del mundo de One Piece . Algunas de estas espadas son realmente asombrosas, y clasificaremos las 20 más poderosas, de menor a mayor.
 slug: espadas-mas-fuertes-de-one-piece
 category: animes
-image: https://fictionhorizon.com/wp-content/uploads/2022/07/strongest-one-piece-swords.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/espadas.webp
 ---
 
 ## 5. Gryphon

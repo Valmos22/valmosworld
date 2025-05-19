@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: La industria del gaming es una de las más rentables, y algunos desarrolladores se han convertido en multimillonarios gracias a sus franquicias de éxito.
 slug: desarrolladores-videojuegos-ricos
 category: juegos
-image: https://i0.wp.com/jbj.luf.temporary.site/wp-content/uploads/2024/02/Keiji_Inafune.jpg?ssl=1
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/desarrolladores.webp
 ---
 
 ## 1. 'Gabe Newell' (Valve)

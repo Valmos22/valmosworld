@@ -1,10 +1,10 @@
 ---
-title: Las mejores videojuegos año tras año (2015–2024)
+title: Los mejores videojuegos año tras año (2015–2024)
 date: 2025-05-17
 excerpt: Cada año nos ha dejado una joya inolvidable. Aquí repasamos los juegos que definieron la última década.
 slug: mejores-videojuegos-por-ano
 category: juegos
-image: https://i.blogs.es/37814d/metacritic/1366_2000.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/mejores-videojuegos.webp
 ---
 
 ## 1. 2015: The Witcher 3: Wild Hunt
