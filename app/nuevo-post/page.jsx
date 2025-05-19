@@ -23,16 +23,6 @@ export default function NuevoPost() {
 
     const handleSubmit = async e => {
         e.preventDefault();
-
-        // const response = await fetch('/api/guardar-post', {
-        //     method: 'POST',
-        //     headers: { 'Content-Type': 'application/json' },
-        //     body: JSON.stringify(form),
-        // });
-
-        // const data = await response.json();
-        // alert(data.message);
-
         console.log(form)
         const posts = JSON.parse(localStorage.getItem('posts')) || [];
         posts.push(form);
