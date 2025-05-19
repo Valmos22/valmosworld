@@ -2,6 +2,17 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    color: #000;
+    /* gap: 2px; */
     margin-bottom: 10px;
+}
+
+.atras a {
+    color: #000;
+}
+
+.atras hr {
+    width: 15px;
+    height: 1px;
+    transform: rotate(-75deg);
+    border: 1px solid;
 }

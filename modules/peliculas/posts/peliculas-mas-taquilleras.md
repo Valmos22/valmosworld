@@ -9,7 +9,7 @@ image: https://fictionhorizon.com/wp-content/uploads/2024/06/superhero-horror-mo
 
 ## 1. 'Avatar' (2009)
 
-![Avatar](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/03/avatar.jpg?tf=3840x)
+[Ver imagen de Avatar](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/03/avatar.jpg?tf=3840x)
 
 James Cameron revolucionó el cine con su épica ciencia ficción. A día de hoy, "Avatar" sigue siendo la película más taquillera de todos los tiempos gracias a sus innovaciones visuales y una historia con fuerte mensaje ecológico.
 
@@ -17,7 +17,7 @@ James Cameron revolucionó el cine con su épica ciencia ficción. A día de hoy
 
 ## 2. 'Avengers: Endgame' (2019)
 
-![Endgame](https://i.blogs.es/d1f406/avengers-endgame-poster-cropped/1366_2000.jpg)
+[Ver imagen de Endgame](https://i.blogs.es/d1f406/avengers-endgame-poster-cropped/1366_2000.jpg)
 
 El desenlace de más de una década de películas del MCU logró lo impensable: reunir a cientos de millones de fans en salas de cine para decir adiós a algunos de los personajes más queridos.
 
@@ -25,7 +25,7 @@ El desenlace de más de una década de películas del MCU logró lo impensable: 
 
 ## 3. 'Titanic' (1997)
 
-![Titanic](https://cdn.aarp.net/content/dam/aarp/entertainment/movies-for-grownups/2022/02/1140-titanic-esp.jpg)
+[Ver imagen de Titanic](https://cdn.aarp.net/content/dam/aarp/entertainment/movies-for-grownups/2022/02/1140-titanic-esp.jpg)
 
 Romance, tragedia, efectos espectaculares y una banda sonora inolvidable convirtieron a "Titanic" en un fenómeno que marcó a toda una generación.
 
@@ -33,7 +33,7 @@ Romance, tragedia, efectos espectaculares y una banda sonora inolvidable convirt
 
 ## 4. 'Star Wars: El despertar de la fuerza' (2015)
 
-![Star Wars](https://i.ytimg.com/vi/fBNdPGVCxSk/maxresdefault.jpg)
+[Ver imagen de Star Wars](https://i.ytimg.com/vi/fBNdPGVCxSk/maxresdefault.jpg)
 
 El regreso triunfal de Star Wars impulsado por Disney rompió récords y volvió a posicionar la saga como una de las más rentables del cine.
 
@@ -41,7 +41,7 @@ El regreso triunfal de Star Wars impulsado por Disney rompió récords y volvió
 
 ## 5. 'Jurassic World' (2015)
 
-![Jurassic World](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FYAKXEGS4RGW7NAJNCW3LFI3FU.jpg)
+[Ver imagen de Jurassic World](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FYAKXEGS4RGW7NAJNCW3LFI3FU.jpg)
 
 La nostalgia por los dinosaurios volvió más fuerte que nunca con esta secuela/reinicio que atrapó a grandes y pequeños en todo el mundo.
 

@@ -60,7 +60,7 @@ export default async function PostPage({ params }) {
     return (
         <main className={styles.container_all_md}>
             <article className={styles.all_md}>
-                <BotonAtras />
+                <BotonAtras categoria={categoria} />
                 <div className={styles.title_img}>
                     <h1>{data.title}</h1>
                     <span>{"Fecha de publicacion: "}{new Date(data.date).toLocaleDateString('es-ES')}</span>

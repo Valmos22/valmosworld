@@ -9,7 +9,7 @@ image: https://cdn.avpasion.com/wp-content/uploads/2025/01/las-mejores-peliculas
 
 ## 2024: 'Oppenheimer'
 
-![Oppenheimer](https://img-tomatazos.buscafs.com/433253/433253.png)
+[Ver imagen de Oppenheimer](https://img-tomatazos.buscafs.com/433253/433253.png)
 
 Christopher Nolan trajo a la gran pantalla una épica biográfica que mezcla ciencia, política y dilemas morales con maestría visual y narrativa.
 
@@ -17,7 +17,7 @@ Christopher Nolan trajo a la gran pantalla una épica biográfica que mezcla cie
 
 ## 2023: 'Everything Everywhere All at Once'
 
-![EEAAO](https://m.media-amazon.com/images/S/pv-target-images/280624c4631999ef41fb2a63c0f5885d328b0e8da5c181f46c5f26f083c3be9f.jpg)
+[Ver imagen de EEAAO](https://m.media-amazon.com/images/S/pv-target-images/280624c4631999ef41fb2a63c0f5885d328b0e8da5c181f46c5f26f083c3be9f.jpg)
 
 Una historia multiversal tan extraña como emotiva que arrasó en los premios Oscar por su originalidad y corazón.
 
@@ -25,7 +25,7 @@ Una historia multiversal tan extraña como emotiva que arrasó en los premios Os
 
 ## 2022: 'CODA'
 
-![CODA](https://cerosetenta.uniandes.edu.co/wp-content/uploads/2022/04/Coda.jpg)
+[Ver imagen de CODA](https://cerosetenta.uniandes.edu.co/wp-content/uploads/2022/04/Coda.jpg)
 
 Una historia sobre inclusión, música y familia que tocó el corazón del público y fue reconocida como Mejor Película en los Oscar.
 
@@ -33,7 +33,7 @@ Una historia sobre inclusión, música y familia que tocó el corazón del públ
 
 ## 2021: 'Nomadland'
 
-![Nomadland](https://disney.images.edge.bamgrid.com/ripcut-delivery/v1/variant/disney/69fa6318-0583-42d3-9c4c-d55e32e92c56?/scale?width=1200&aspectRatio=1.78&format=webp)
+[Ver imagen de Nomadland](https://disney.images.edge.bamgrid.com/ripcut-delivery/v1/variant/disney/69fa6318-0583-42d3-9c4c-d55e32e92c56?/scale?width=1200&aspectRatio=1.78&format=webp)
 
 Minimalista y poderosa. Frances McDormand lidera esta introspectiva historia sobre la vida nómada moderna en EE.UU.
 
@@ -41,6 +41,6 @@ Minimalista y poderosa. Frances McDormand lidera esta introspectiva historia sob
 
 ## 2020: 'Parásitos'
 
-![Parasite](https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d5e3be11-eb8b-449f-89cf-db887ddee777/beda1820a916959baee657ba47d022f7a81e9d6b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom)
+[Ver imagen de Parasite](https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d5e3be11-eb8b-449f-89cf-db887ddee777/beda1820a916959baee657ba47d022f7a81e9d6b.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom)
 
 La joya surcoreana de Bong Joon-ho rompió barreras y se convirtió en la primera película no hablada en inglés en ganar el Oscar a Mejor Película.
