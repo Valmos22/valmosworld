@@ -5,7 +5,7 @@ date: 2025-05-16
 excerpt: En mis años como ávido lector y cinéfilo, he conocido a innumerables personajes que han dejado una huella imborrable en mi corazón. Algunos me han hecho reír, otros me han hecho llorar, y algunos incluso han desafiado mi perspectiva. Sin embargo, en este vasto universo de seres ficticios, hay algunos íconos que se yerguen imponentes, más allá del tiempo y el género. En este artículo, pretendo presentarles a algunos de los personajes de ficción más emblemáticos de todos los tiempos aquellos que no solo han moldeado la literatura y el cine, sino que también han dejado una huella imborrable en nuestra conciencia cultural colectiva.
 slug: personajes-de-ficcion-mas-iconicos
 category: peliculas
-image: https://fictionhorizon.com/wp-content/uploads/2022/08/iconic-fictional-characters-of-all-time.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/personajes-de-ficcion.png
 ---
 
 ## 1. Superman

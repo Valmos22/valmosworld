@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: El éxito de taquilla es una métrica contundente en la industria del cine. Aunque no siempre implica calidad, sí refleja el impacto cultural y comercial de una película. Aquí repasamos las películas más taquilleras de todos los tiempos, ajustadas a su contexto.
 slug: peliculas-mas-taquilleras
 category: peliculas
-image: https://fictionhorizon.com/wp-content/uploads/2024/06/superhero-horror-movies-768x432.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/peliculas-taquilla.webp
 ---
 
 ## 1. 'Avatar' (2009)

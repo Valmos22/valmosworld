@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: Cada año deja su huella en el cine con una obra que destaca por encima de las demás. Aquí recopilamos las mejores películas seleccionadas año por año por la crítica y el público.
 slug: mejores-peliculas-por-ano
 category: peliculas
-image: https://cdn.avpasion.com/wp-content/uploads/2025/01/las-mejores-peliculas-de-accion-ver-prime-video-01.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/películas-año-tras-año.png
 ---
 
 ## 2024: 'Oppenheimer'

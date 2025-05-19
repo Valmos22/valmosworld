@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: El talento actoral puede ser muy rentable, especialmente cuando se combina con negocios inteligentes, marcas personales fuertes y participación en franquicias exitosas. Estos son los actores más ricos del mundo hoy.
 slug: actores-mas-ricos-del-mundo
 category: peliculas
-image: https://forbes.es/wp-content/uploads/2024/03/Proyecto-nuevo-2.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/actores-mas-ricos.webp
 ---
 
 ## 1. Jerry Seinfeld

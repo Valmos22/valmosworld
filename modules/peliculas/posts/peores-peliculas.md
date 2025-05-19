@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: No todo lo que llega a la pantalla grande brilla. Algunas películas son universalmente rechazadas por su guion, actuaciones o simplemente por ser una mala idea desde el inicio. Aquí las peores, según los expertos.
 slug: peores-peliculas-segun-criticos
 category: peliculas
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9KzWSJUPiD5oN_fiA_xLIjX4fSaMbfyGaN9WV7oIWcxXOPQFJrUw3JHc-Zt7672R7G6fMzCaIwZG_b7oQw4UU0SeR-rm67UvBTaMbAMKmxrSurSUIjKqqZQzFD3N07VxoNLXVTQ0MVE/s2048/Top+10+2020+peores+-+el+vuelo+del+yobirou.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/peores-peliculas.png
 ---
 
 ## 1. 'Disaster Movie' (2008)

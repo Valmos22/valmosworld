@@ -5,7 +5,7 @@ date: 2025-05-16
 excerpt: “El dolor es fugaz, pero el cine perdura para siempre”. Esta frase se ha usado varias veces para enfatizar la idea de que el cine está grabado en tinta indeleble y que, por muy desafiante o agotador que sea el proceso de creación de una película, el resultado (con suerte) vale la pena. Lo cierto es que no todas las películas merecen ser vistas una y otra vez, y algunas envejecen con más gracia que otras. Pero una de las cosas hermosas del cine es que perdura para siempre.
 slug: grandes-peliculas-que-olvidaste
 category: peliculas
-image: https://fictionhorizon.com/wp-content/uploads/2022/06/30-Great-Movies-You-Forgot-About-Need-to-Watch-Again.jpg
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/grandes-películas.png
 ---
 
 ## 1. 'Uno de los Nuestros' (1990)
