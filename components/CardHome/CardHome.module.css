@@ -1,0 +1,38 @@
+.posts_random {
+    width: 30%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: flex-start;
+    text-decoration: none;
+    color: #000;
+}
+
+.posts_random img {
+    width: 100%;
+}
+
+.posts_random h3{
+        font-size: 18px;
+}
+
+.posts_random span{
+    color: #871C1C;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 0.8rem;
+}
+
+.posts_random a {
+    font-weight: 800;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: inherit;
+    font-size: 80%;
+}
+
+.posts_random a:hover {
+    color: #871C1C;
+}
