@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: No todo lo que llega a la pantalla grande brilla. Algunas películas son universalmente rechazadas por su guion, actuaciones o simplemente por ser una mala idea desde el inicio. Aquí las peores, según los expertos.
 slug: peores-peliculas-segun-criticos
 category: peliculas
-image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/peores-peliculas.png
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/peores-peliculas.PNG
 ---
 
 ## 1. 'Disaster Movie' (2008)
