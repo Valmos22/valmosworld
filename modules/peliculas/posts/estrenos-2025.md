@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: El 2025 promete ser un año de grandes lanzamientos. Desde secuelas esperadas hasta nuevas sagas, el calendario de estrenos emociona tanto a cinéfilos como a fanáticos del blockbuster.
 slug: estrenos-mas-esperados-2025
 category: peliculas
-image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/peliculas-2025.webp
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/peliculas-2025.jpg
 ---
 
 ## 1. 'Avengers: Secret Wars'

@@ -4,7 +4,7 @@ date: 2025-05-17
 excerpt: Desde mundos abiertos hasta shooters multijugador, estos títulos no solo cautivaron a millones, sino que también rompieron récords financieros.
 slug: videojuegos-mas-taquilleros
 category: juegos
-image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/Los-videojuegos-taquilleros.webp
+image: https://raw.githubusercontent.com/Valmos22/valmosworld/refs/heads/main/asset/images/Los-videojuegos-taquilleros.jpg
 ---
 
 ## 1. 'Grand Theft Auto V' (2013)
