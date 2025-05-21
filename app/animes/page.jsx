@@ -2,6 +2,7 @@ import PostsCategory from '@/components/PostsCategory/PostsCategory';
 import { getPostsCategory } from '@/utils/getPostsCategory';
 import { parrafos } from '@/utils/parrafos';
 import PostCard from '../../components/PostCard/PostCard';
+import '../../styles/globals.css';
 
 export default function AnimesPage() {
     const postsMarkDown = getPostsCategory('animes');

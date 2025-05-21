@@ -47,12 +47,20 @@
   .card_conte h2 {
     font-size: 20px;
   }
+
+  .date {
+    font-size: 20px;
+  }
 }
 
 /* Teléfonos grandes */
 @media (min-width: 480px) and (max-width: 767px) {
   .card_conte {
     gap: 0;
+  }
+
+  .date {
+    font-size: 20px;
   }
 }
 

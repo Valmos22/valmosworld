@@ -184,6 +184,10 @@
         width: 100%;
         gap: 1rem;
     }
+
+    .mark p {
+        font-size: 25px !important;
+    }
 }
 
 /* Teléfonos grandes */
@@ -206,6 +210,9 @@
         gap: 1rem;
     }
 
+    .mark p {
+        font-size: 25px !important;
+    }
 }
 
 /* Tablets */
@@ -226,14 +233,22 @@
         width: 100%;
         gap: 1rem;
     }
+    
+    .mark p {
+        font-size: 30px !important;
+    }
 }
 
 /* Laptops */
 @media (min-width: 1024px) and (max-width: 1279px) {
-
+    .mark p {
+        font-size: 35px !important;
+    }
 }
 
 /* Pantallas grandes */
 @media (min-width: 1280px) {
-
+    .mark p {
+        font-size: 20px !important;
+    }
 }

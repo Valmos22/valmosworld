@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Poppins, sans-serif;
-    text-align: justify;
 }
 
 html, #body {
@@ -50,12 +49,20 @@ html, #body {
     .categoria-conte {
         width: 100%;
     }
+
+    .categoria-description > p {
+        font-size: 28px;
+    }
 }
 
 /* Teléfonos grandes */
 @media (min-width: 480px) and (max-width: 767px) {
     .categoria-conte {
         width: 100%;
+    }
+
+    .categoria-description p {
+        font-size: 30px;
     }
 }
 
@@ -64,11 +71,17 @@ html, #body {
     .categoria-conte {
         width: 100%;
     }
+
+    .categoria-description p {
+        font-size: 30px;
+    }
 }
 
 /* Laptops */
 @media (min-width: 1024px) and (max-width: 1279px) {
-
+    .categoria-description p {
+        font-size: 30px;
+    }
 }
 
 /* Pantallas grandes */
