@@ -1,19 +1,10 @@
+import PostsCategory from '@/components/PostsCategory/PostsCategory';
+import { getPostsCategory } from '@/utils/getPostsCategory';
 import { parrafos } from '@/utils/parrafos';
-import fs from 'fs';
-import matter from 'gray-matter';
-import path from 'path';
 import PostCard from '../../components/PostCard/PostCard';
 
 export default function AnimesPage() {
-    const dir = path.join(process.cwd(), 'modules/animes/posts');
-    const files = fs.readdirSync(dir);
-
-    const posts = files.map((filename) => {
-        const fileContent = fs.readFileSync(path.join(dir, filename), 'utf8');
-        const { data } = matter(fileContent);
-        return { ...data };
-    });
-
+    const postsMarkDown = getPostsCategory('animes');
     const { parrafoAnime } = parrafos
 
     return (
@@ -26,7 +17,8 @@ export default function AnimesPage() {
                     </p>
                 </article>
                 <article className='categoria-list'>
-                    {posts.map((post) => (
+                    <PostsCategory category={'animes'} />
+                    {postsMarkDown?.map((post) => (
                         <PostCard key={post.slug} post={post} />
                     ))}
                 </article>

@@ -1,7 +1,9 @@
 import Footer from "@/components/Footer/Footer";
 import Navbar from "@/components/Navbar/Navbar";
+import PostStudio from "@/components/PostStudio/PostStudio";
 import { Analytics } from '@vercel/analytics/next';
 import "../styles/globals.css";
+import { Providers } from "./providers";
 
 export const metadata = {
   title: 'ValmosWorld',
@@ -15,10 +17,13 @@ export default function RootLayout({ children }) {
   return (
     <html lang="es">
       <body id="body">
-        <Navbar />
-        {children}
-        <Analytics />
-        <Footer />
+        <Providers>
+          <Navbar />
+          <PostStudio />
+          {children}
+          <Analytics />
+          <Footer />
+        </Providers>
       </body>
     </html>
   )
