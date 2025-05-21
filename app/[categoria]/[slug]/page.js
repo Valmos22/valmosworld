@@ -110,7 +110,7 @@ export default async function PostPage({ params }) {
                 {postData?.videoUrl && (
                     <>
                         <p className='ver-video'>Mira el video</p>
-                        <hr />
+                        <br />
                         <VideoYoutube urlVideo={postData?.videoUrl} />
                     </>
                 )}

@@ -4,8 +4,8 @@ const VideoYoutube = ({ urlVideo }) => {
     return (
         <div className="youtubeVideo">
             <iframe
-                width="560"
-                height="315"
+                width="80%"
+                height="400"
                 src={`${urlVideo}`}
                 title="YouTube video player"
                 frameborder="0"
