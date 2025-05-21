@@ -164,3 +164,76 @@
 .form_wrapper button:hover {
     background: rgba(0, 0, 0, 0.9);
 }
+
+/*RESPONSIVE*/
+/* Teléfonos pequeños */
+@media (max-width: 479px) {
+    .container_all_md {
+        flex-direction: column;
+    }
+
+    .posts_list_random, .all_md, .title_img, .mark {
+        width: 100%;
+    }
+
+    .container_list_random {
+        flex-direction: column;
+    }
+
+    .post_destacado {
+        width: 100%;
+        gap: 1rem;
+    }
+}
+
+/* Teléfonos grandes */
+@media (min-width: 480px) and (max-width: 767px) {
+
+    .container_all_md {
+        flex-direction: column;
+    }
+
+    .posts_list_random, .all_md, .title_img, .mark {
+        width: 100%;
+    }
+
+    .container_list_random {
+        flex-direction: column;
+    }
+
+    .post_destacado {
+        width: 100%;
+        gap: 1rem;
+    }
+
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .container_all_md {
+        flex-direction: column;
+    }
+
+    .posts_list_random, .all_md, .title_img, .mark {
+        width: 100%;
+    }
+
+    .container_list_random {
+        flex-direction: column;
+    }
+
+    .post_destacado {
+        width: 100%;
+        gap: 1rem;
+    }
+}
+
+/* Laptops */
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+}
+
+/* Pantallas grandes */
+@media (min-width: 1280px) {
+
+}

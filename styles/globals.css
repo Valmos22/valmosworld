@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Poppins, sans-serif;
+    text-align: justify;
 }
 
 html, #body {
@@ -42,4 +43,35 @@ html, #body {
     line-height: 1.7;
     color: #000;
 }
-.categoria-list {}
+
+/*RESPONSIVE*/
+/* Teléfonos pequeños */
+@media (max-width: 479px) {
+    .categoria-conte {
+        width: 100%;
+    }
+}
+
+/* Teléfonos grandes */
+@media (min-width: 480px) and (max-width: 767px) {
+    .categoria-conte {
+        width: 100%;
+    }
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .categoria-conte {
+        width: 100%;
+    }
+}
+
+/* Laptops */
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+}
+
+/* Pantallas grandes */
+@media (min-width: 1280px) {
+
+}

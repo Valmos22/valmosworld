@@ -37,3 +37,36 @@
     color: inherit;
     font-size: 80%;
 }
+
+/*RESPONSIVE*/
+/* Teléfonos pequeños */
+@media (max-width: 479px) {
+  .card_conte {
+    gap: 0;
+  }
+  .card_conte h2 {
+    font-size: 20px;
+  }
+}
+
+/* Teléfonos grandes */
+@media (min-width: 480px) and (max-width: 767px) {
+  .card_conte {
+    gap: 0;
+  }
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+/* Laptops */
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+}
+
+/* Pantallas grandes */
+@media (min-width: 1280px) {
+
+}

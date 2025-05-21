@@ -8,6 +8,7 @@ import { queryData } from '@/utils/postsQuery'
 import fs from 'fs'
 import matter from 'gray-matter'
 import { PortableText } from 'next-sanity'
+import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import path from 'path'
 import ReactMarkdown from 'react-markdown'
@@ -109,7 +110,7 @@ export default async function PostPage({ params }) {
                 </div>
                 {postData?.videoUrl && (
                     <>
-                        <p className='ver-video'>Mira el video</p>
+                        <Link href='https://youtube.com/@huvalmostv?si=qgTrO8aHbnTaXNTV' target='_blank' className='ver-video' >Visita mi canal</Link>
                         <br />
                         <VideoYoutube urlVideo={postData?.videoUrl} />
                     </>

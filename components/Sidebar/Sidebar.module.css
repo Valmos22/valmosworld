@@ -41,3 +41,38 @@
     line-height: 1.7;
     color: #000;
 }
+
+/*RESPONSIVE*/
+/* Teléfonos pequeños */
+@media (max-width: 479px) {
+    .container_sidebar {
+        width: 100%;
+        padding: 2rem !important;
+    }
+}
+
+/* Teléfonos grandes */
+@media (min-width: 480px) and (max-width: 767px) {
+    .container_sidebar {
+        width: 100%;
+        padding: 2rem !important;
+    }
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .container_sidebar {
+        width: 100%;
+        padding: 2rem !important;
+    }
+}
+
+/* Laptops */
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+}
+
+/* Pantallas grandes */
+@media (min-width: 1280px) {
+
+}

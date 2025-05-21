@@ -36,3 +36,35 @@
 .posts_random a:hover {
     color: #871C1C;
 }
+
+/*RESPONSIVE*/
+/* Teléfonos pequeños */
+@media (max-width: 479px) {
+    .posts_random {
+        width: 40%;
+        height: auto;
+    }
+}
+
+/* Teléfonos grandes */
+@media (min-width: 480px) and (max-width: 767px) {
+    .posts_random {
+        width: 40%;
+        height: auto;
+    }
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+/* Laptops */
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+}
+
+/* Pantallas grandes */
+@media (min-width: 1280px) {
+
+}
