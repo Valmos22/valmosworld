@@ -1,11 +1,9 @@
-import { VideoCameraIcon } from '@sanity/icons'
 import { defineArrayMember, defineField, defineType } from 'sanity'
 
 export const postCont = defineType({
     name: 'postCont',
     title: 'Post con videos',
     type: 'document',
-    icon: VideoCameraIcon,
     fields: [
         defineField({
             name: 'title',
