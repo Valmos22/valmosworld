@@ -53,6 +53,55 @@ export async function generateStaticParams() {
     return params;
 }
 
+export async function generateMetadata({ params }) {
+    const { categoria, slug } = await params
+    const postPath = path.join(process.cwd(), 'modules', categoria, 'posts')
+
+    let postData = null;
+    let content = null;
+
+    if (fs.existsSync(postPath)) {
+        const files = fs.readdirSync(postPath);
+
+        const matchedFile = files.find((file) => {
+            const fileContent = fs.readFileSync(path.join(postPath, file), 'utf-8');
+            const { data } = matter(fileContent);
+            return data.slug === slug;
+        });
+
+        if (matchedFile) {
+            const fullPath = path.join(postPath, matchedFile);
+            const fileContent = fs.readFileSync(fullPath, 'utf-8');
+            const parsed = matter(fileContent);
+            postData = parsed.data;
+            content = parsed.content;
+        }
+    }
+
+    if (!postData) {
+        postData = await client.fetch(SANITY_QUERY, { slug });
+        if (!postData) return notFound();
+        content = postData.body;
+    }
+
+    return {
+        title: postData.title,
+        description: postData.excerpt || 'Lee este post en ValmosWorld',
+        openGraph: {
+            title: postData.title,
+            description: postData.excerpt,
+            images: [
+                {
+                    url: postData.image || '/og-image.webp',
+                    width: 1200,
+                    height: 630,
+                    alt: postData.title,
+                },
+            ],
+        }
+    }
+}
+
 export default async function PostPage({ params }) {
     const { categoria, slug } = await params
     const postPath = path.join(process.cwd(), 'modules', categoria, 'posts')
@@ -84,8 +133,6 @@ export default async function PostPage({ params }) {
         content = postData.body;
     }
     const posts = getAllPosts(5);
-
-    console.log(postData)
 
     return (
         <main className={styles.container_all_md}>

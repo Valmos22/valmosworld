@@ -9,7 +9,6 @@ export default function handler(req, res) {
     };
 
     const posts = obtenerClave("post");
-    console.log(posts);
 
     const validCategories = ['animes', 'juegos', 'peliculas'];
     let guardados = 0;

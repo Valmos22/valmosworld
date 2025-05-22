@@ -2,9 +2,6 @@ import Link from 'next/link'
 import styles from './BotonAtras.module.css'
 
 const BotonAtras = ({ categoria }) => {
-
-    console.log(categoria)
-
     return (
 
         <div className={styles.atras}>

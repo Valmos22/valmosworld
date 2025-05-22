@@ -17,13 +17,11 @@ export default function NuevoPost() {
 
     const handleChange = e => {
         const { name, value } = e.target;
-        console.log(value)
         setForm(prev => ({ ...prev, [name]: value }));
     };
 
     const handleSubmit = async e => {
         e.preventDefault();
-        console.log(form)
         const posts = JSON.parse(localStorage.getItem('posts')) || [];
         posts.push(form);
         localStorage.setItem('posts', JSON.stringify(posts));
@@ -47,7 +45,7 @@ export default function NuevoPost() {
                         </select>
                     </div>
                     <div className={styles.input_group}>
-                        <input name="date" type="date" value={form.date} onChange={handleChange} />
+                        {/* <input name="date" type="date" value={form.date} onChange={handleChange} /> */}
                     </div>
                     <div className={styles.input_group}>
                         <input name="excerpt" placeholder="Descripcion" onChange={handleChange} required />

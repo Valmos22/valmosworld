@@ -1,6 +1,5 @@
 
 const VideoYoutube = ({ urlVideo }) => {
-    console.log(urlVideo)
     return (
         <div className="youtubeVideo">
             <iframe
