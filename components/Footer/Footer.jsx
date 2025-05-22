@@ -12,6 +12,10 @@ export default function Footer() {
 
     return (
         <footer className={styles.footer}>
+            <div>
+                <a href="/privacy-policy">Política de Privacidad</a>
+                <a href="/terms">Términos y Condiciones</a>
+            </div>
             <p>© {year} ValmosWorld. Todos los derechos reservados.</p>
         </footer>
     )
