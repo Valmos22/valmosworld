@@ -59,12 +59,21 @@
     .social {
         width: 100%;
     }
+
+    .container_social {
+        justify-content: flex-start;
+        height: auto;
+    }
 }
 
 /* Teléfonos grandes */
 @media (min-width: 480px) and (max-width: 767px) {
     .social {
         width: 100%;
+    }
+        .container_social {
+        justify-content: flex-start;
+        height: auto;
     }
 }
 

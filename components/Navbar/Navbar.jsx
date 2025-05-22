@@ -3,13 +3,14 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { IoClose, IoMenu } from 'react-icons/io5';
+import SocialNetworks from '../SocialNetworks/SocialNetworks';
 import styles from './Navbar.module.css';
 
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
     const toggleMenu = () => setIsOpen(!isOpen);
 
-    const handleLinkClick = () => setIsOpen(false); // Cierra menú
+    const handleLinkClick = () => setIsOpen(false);
 
     return (
         <>
@@ -19,15 +20,14 @@ export default function Navbar() {
                 </Link>
                 <nav className={styles.navbar}>
 
-                    {/* Botón Hamburguesa solo visible en móvil */}
                     <button className={styles.hamburger} onClick={toggleMenu}>
                         <span className={styles.span_isOpen}>
                             {isOpen ? <IoClose size={24} /> : <IoMenu size={24} />}
                         </span>
                     </button>
 
-                    {/* Menú lateral móvil */}
                     <div className={`${styles.menuMobile} ${isOpen ? styles.open : ''}`}>
+                        <SocialNetworks />
                         <ul className={styles.links}>
                             <li><Link href="/" onClick={handleLinkClick}>Home</Link></li>
                             <li><Link href="/animes" onClick={handleLinkClick}>Animes</Link></li>
@@ -36,7 +36,6 @@ export default function Navbar() {
                         </ul>
                     </div>
 
-                    {/* Menú horizontal en desktop */}
                     <div className={styles.menuDesktop}>
                         <ul className={styles.links}>
                             <li><Link href="/">Home</Link></li>
