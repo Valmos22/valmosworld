@@ -15,6 +15,7 @@ export default function Footer() {
             <div>
                 <a href="/privacy-policy">Política de Privacidad</a>
                 <a href="/terms">Términos y Condiciones</a>
+                <a href="/contact">Términos y Condiciones</a>
             </div>
             <p>© {year} ValmosWorld. Todos los derechos reservados.</p>
         </footer>

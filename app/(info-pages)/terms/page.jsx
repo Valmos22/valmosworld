@@ -6,6 +6,7 @@ export default function Terms() {
 
             <h2>Propiedad Intelectual</h2>
             <p>El contenido de este sitio (textos, imágenes, videos, etc.) pertenece a ValmosWorld o a sus respectivos autores, y no puede ser reproducido sin permiso.</p>
+            <p>Tambien las imágenes y textos de ValmosWorld son creados y adaptados con fines informativos y de entretenimiento. Algunos contenidos visuales pueden estar basados en material de libre uso o referencial, siempre transformados y editados bajo una finalidad original.</p>
 
             <h2>Contenido de terceros</h2>
             <p>Algunos contenidos pueden incluir videos de YouTube u otras fuentes externas, que están regidos por sus propios términos.</p>
